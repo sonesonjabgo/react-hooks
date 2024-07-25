@@ -1,0 +1,28 @@
+{
+  "name": "jreacthooks",
+  "version": "1.0.1",
+  "description": "React Hooks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonesonjabgo/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Jaehyung Son <thswogud02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonesonjabgo/react-hooks/issues"
+  },
+  "homepage": "https://github.com/sonesonjabgo/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "dependencies": {
+    "jreacthooks": "^1.0.1"
+  }
+}
